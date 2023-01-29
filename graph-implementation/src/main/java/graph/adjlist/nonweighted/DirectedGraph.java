@@ -6,6 +6,7 @@ public class DirectedGraph {
     
     public DirectedGraph(int size) {
     	//TODO : 생성자 구현 -> adjList 초기화
+        int a =10;
     	
     }
     
